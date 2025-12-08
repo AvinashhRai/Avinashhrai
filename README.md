@@ -1,10 +1,9 @@
 # 💫 About Me:
 <h2>👋 Hey, I'm Avinash Rai</h2>
-<p>🔬 QA — Ongoing Stability (OGS) Support | Logos Pharma<br>
+<p>🔬 QA — Ongoing Stability (OGS) Support<br>
 📊 Aspiring Healthcare Data Analyst</p>
 
 <p>
-I work at the intersection of <strong>pharma quality</strong> and <strong>data</strong>.<br>
 Right now, I'm leveling up my analytics skills — <em>Excel → SQL → Python</em> — while using my QA experience to understand real-world healthcare data better than a typical beginner.
 </p>
 
