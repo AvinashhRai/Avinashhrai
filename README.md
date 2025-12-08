@@ -1,33 +1,28 @@
 # 💫 About Me:
-<!-- About Me — Avinash Rai -->
-<section id="about" style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial; color:#0f172a; max-width:760px; margin:24px auto; line-height:1.55;">
-  <div style="text-align:left; padding:18px; border-radius:12px; box-shadow:0 6px 18px rgba(2,6,23,0.06); background:linear-gradient(180deg,#ffffff 0%, #fbfdff 100%);">
-    <h1 style="margin:0 0 8px; font-size:22px;">👋 Hey, I'm <strong>Avinash Rai</strong></h1>
-    <p style="margin:0 0 12px; color:#334155; font-weight:600;">🔬 QA — Ongoing Stability (OGS) Support | Logos Pharma · 📊 Aspiring Healthcare Data Analyst</p>
+<h2>👋 Hey, I'm Avinash Rai</h2>
+<p>🔬 QA — Ongoing Stability (OGS) Support | Logos Pharma<br>
+📊 Aspiring Healthcare Data Analyst</p>
 
-    <p style="margin:12px 0 12px;">
-      I work at the intersection of <strong>pharma quality</strong> and <strong>data</strong>. Right now I'm leveling up my analytics skills — <em>Excel → SQL → Python</em> — while using my QA experience to understand real-world healthcare data better than a typical beginner.
-    </p>
+<p>
+I work at the intersection of <strong>pharma quality</strong> and <strong>data</strong>.<br>
+Right now, I'm leveling up my analytics skills — <em>Excel → SQL → Python</em> — while using my QA experience to understand real-world healthcare data better than a typical beginner.
+</p>
 
-    <p style="margin:12px 0; background:#f1f5f9; padding:10px 12px; border-radius:8px; color:#0f172a;">
-      <strong>💡 Goal:</strong> Become a healthcare domain specialist who can turn stability data, QC trends, and pharma insights into clean, actionable analytics.
-    </p>
+<p>
+<strong>💡 My goal:</strong><br>
+Become a healthcare domain specialist who can turn stability data, QC trends, and pharma insights into clean, actionable analytics.
+</p>
 
-    <div style="margin:12px 0;">
-      <strong>🛠️ Learning & Building</strong>
-      <ul style="margin:8px 0 0 18px; padding:0; color:#334155;">
-        <li>Excel (Basics → Advanced)</li>
-        <li>SQL (MySQL)</li>
-        <li>Python for Data Analysis</li>
-        <li>Data Cleaning & Visualization Projects</li>
-      </ul>
-    </div>
+<h3>🛠️ Learning & Building</h3>
+<ul>
+  <li>Excel (Basics → Advanced)</li>
+  <li>SQL (MySQL)</li>
+  <li>Python for Data Analysis</li>
+  <li>Data Cleaning & Visualization Projects</li>
+</ul>
 
-    <p style="margin:14px 0 0; color:#475569; font-style:italic;">
-      📍 From quality… to analytics… to healthcare insights.
-    </p>
-  </div>
-</section>
+<p><em>📍 From quality… to analytics… to healthcare insights.</em></p>
+
 
 
 
