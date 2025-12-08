@@ -9,7 +9,7 @@ Right now, I'm leveling up my analytics skills — <em>Excel → SQL → Python<
 
 <p>
 <strong>💡 My goal:</strong><br>
-Become a healthcare domain specialist who can turn stability data, QC trends, and pharma insights into clean, actionable analytics.
+Become a healthcare domain specialist who can turn data into insights and clean, actionable analytics.
 </p>
 
 <h3>🛠️ Learning & Building</h3>
