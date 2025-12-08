@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Avinash Rai.
+Hey, I'm Avinash Rai.<br>
 I work in Quality Assurance (Ongoing Stability Support) in the pharma industry, and I’m leveling up into Healthcare Data Analytics by combining real domain experience with data skills.  <br>I’m currently learning the basics of data analytics and building skills in Excel, SQL and Python.  <br><br>My goal is to combine my QA experience with data analytics to grow into a Healthcare Data Analyst who understands both the data and the domain.<br>
 
 
