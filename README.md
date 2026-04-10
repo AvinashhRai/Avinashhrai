@@ -1,38 +1,53 @@
 # 💫 About Me:
 <h2>👋 Hey, I'm Avinash Rai</h2>
-<p>🔬 QA — Ongoing Stability (OGS) Support<br>
-📊 Aspiring Healthcare Data Analyst</p>
+<p>💊 B.Pharm Graduate | Clinical SAS Aspirant</p>
 
 <p>
-Right now, I'm leveling up my analytics skills — <em>Excel → SQL → Python</em> — while using my QA experience to understand real-world healthcare data better than a typical beginner.
+Currently building strong expertise in <strong>SAS Programming and Clinical Data Analysis</strong>, with a focus on real-world clinical trial data and CRO workflows.
+</p>
+
+<p>
+With hands-on experience in <strong>Quality Assurance (OGS Support)</strong>, I bring a strong understanding of data accuracy, documentation, and compliance — critical in clinical data environments.
 </p>
 
 <p>
 <strong>💡 My goal:</strong><br>
-Become a healthcare domain specialist who can turn data into insights and clean, actionable analytics.
+Become a job-ready <strong>Clinical SAS Programmer</strong> capable of handling real clinical datasets, data cleaning, and generating analysis-ready outputs (TLF).
 </p>
 
-<h3>🛠️ Learning & Building</h3>
-<ul>
-  <li>Excel (Basics → Advanced)</li>
-  <li>SQL (MySQL)</li>
-  <li>Python for Data Analysis</li>
-  <li>Data Cleaning & Visualization Projects</li>
-</ul>
+---
 
-<p><em>📍 From quality… to analytics… to healthcare insights.</em></p>
+## 🛠️ Core Skills (Clinical SAS Focus)
 
+- SAS Programming (Base SAS, Data Step, PROC, SQL)
+- Clinical Data Understanding (SDTM, ADaM basics)
+- Data Cleaning & Validation
+- TLF (Tables, Listings, Figures) Generation
+- Debugging & Log Analysis
 
+---
 
+## 📊 Projects (Clinical SAS)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-rai-unofficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avinashrai01.work@gmail.com) 
+- Clinical Data Cleaning & Validation Project  
+- Patient Demographics & TLF Generation  
+- Adverse Events Analysis (AE Dataset)  
+- Lab Data Processing & Summary  
 
-# 💻 Tech Stack:
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white)
+---
+
+## 💻 Tools & Technologies
+
 ![SAS](https://img.shields.io/badge/SAS-0078CC?style=for-the-badge&logo=sas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white)
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-rai-unofficial)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avinashrai01.work@gmail.com)
+
+---
+
+<p><em>📍 From Quality Assurance → Clinical Data → SAS Programming</em></p>
