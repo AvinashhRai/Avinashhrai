@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 <h2>👋 Hey, I'm Avinash Rai</h2>
 <p>💊 B.Pharm Graduate | Clinical SAS Aspirant</p>
 
